@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://sklep.pgg.pl/
 // @match        https://sklep.pgg.pl/koszyk
+// @match        https://sklep.pgg.pl/login
 // @match        https://sklep.pgg.pl/koszyk/dodaj-produkt
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
